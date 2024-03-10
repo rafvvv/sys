@@ -1,3 +1,3 @@
 # Здесь будут приколы для разных систем
 
-!(https://launchpad.net/grub-customizer)[grub customizer site]
+[grub customizer site](https://launchpad.net/grub-customizer)
