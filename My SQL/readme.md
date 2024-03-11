@@ -1,1 +1,1 @@
-[https://sqlfiddle.com](MySQL in browser)
+[MySQL in browser](https://sqlfiddle.com)
