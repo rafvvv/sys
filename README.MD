@@ -7,4 +7,5 @@
 __gnome background - это понравившиеся мне обои из gnome__
 
 __minegrub.tar.gz - это стилизованная под майн граб тема__
+
 __my backgrounds - это обои просто крутые__
