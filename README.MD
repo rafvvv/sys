@@ -4,6 +4,7 @@
 
 [лучший minecraft launcher](https://llaun.ch/ru)
 
-__gnome bacground - это понравившиеся мне обои из gnome__
+__gnome background - это понравившиеся мне обои из gnome__
 
 __minegrub.tar.gz - это стилизованная под майн граб тема__
+__my backgrounds - это обои просто крутые__
